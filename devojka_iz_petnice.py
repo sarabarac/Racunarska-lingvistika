@@ -68,7 +68,7 @@ for i in devojka_iz_petnice:
         i=i.replace("en","ena")
     dečak.append(i)
     
-rečnik2=' '
+=' '
 
     
     
